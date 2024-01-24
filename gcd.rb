@@ -1,0 +1,1 @@
+puts "Kenyoh College!!!"
