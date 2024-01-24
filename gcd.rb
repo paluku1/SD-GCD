@@ -1,1 +1,1 @@
-puts "Kenyoh College!!!"
+puts "Kenyon College!!!"
